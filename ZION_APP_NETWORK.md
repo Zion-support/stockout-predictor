@@ -1,17 +1,27 @@
-# 🌐 Zion AI App Network — Interlink Directory
+# Zion App Network — stockout-predictor
 
-Part of the **Zion AI App Network** by [Zion Tech Group](https://ziontechgroup.com).
+Zion Stockout Predictor — SKU/location stockout risk scores and replenishment alerts.
 
-- Free AI Discovery: https://ziontechgroup.com/discovery/ (results to you + commercial@ziontechgroup.com)
-- Plans: https://ziontechgroup.com/en/plans/ | Showcase: https://ziontechgroup.com/apps/network.html | Hub: https://github.com/Zion-support/zion-network
+Part of the **Zion AI App Network** — 850+ free, open-source, interlinked AI apps maintained by [Zion Tech Group](https://ziontechgroup.com).
 
-## Batch 74 — Retail & E-commerce AI
-- [promo-roi-optimizer](https://github.com/Zion-support/promo-roi-optimizer)
-- [review-response-ai](https://github.com/Zion-support/review-response-ai)
-- [stockout-predictor](https://github.com/Zion-support/stockout-predictor)
-- [cart-abandonment-rescue](https://github.com/Zion-support/cart-abandonment-rescue)
-- [return-fraud-detector](https://github.com/Zion-support/return-fraud-detector)
-- [product-recommendation-ai](https://github.com/Zion-support/product-recommendation-ai)
+- 🌐 **Live app:** https://ziontechgroup.com/stockout-predictor/
+- 🧭 **Network hub:** https://github.com/Zion-support/zion-network · [APPS_NETWORK.md](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 🔎 **Free Discovery (always online, always free):** https://ziontechgroup.com/discovery/ — results emailed instantly to you and commercial@ziontechgroup.com
+- 🏠 **Homepage:** https://ziontechgroup.com/ · 💼 **Plans:** https://ziontechgroup.com/en/plans/
 
-## Batch 73 — Legal, Compliance & CX
-- [litigation-doc-reviewer](https://github.com/Zion-support/litigation-doc-reviewer) · [legal-doc-drafter](https://github.com/Zion-support/legal-doc-drafter) · [contract-clause-analyzer](https://github.com/Zion-support/contract-clause-analyzer) · [legal-contract-analyzer](https://github.com/Zion-support/legal-contract-analyzer) · [litigation-hold-manager](https://github.com/Zion-support/litigation-hold-manager) · [regulation-change-tracker](https://github.com/Zion-support/regulation-change-tracker) · [compliance-gap-scanner](https://github.com/Zion-support/compliance-gap-scanner) · [privacy-request-handler](https://github.com/Zion-support/privacy-request-handler) · [gdpr-dsar-autopilot](https://github.com/Zion-support/gdpr-dsar-autopilot) · [support-sentiment-radar](https://github.com/Zion-support/support-sentiment-radar) · [onboarding-journey-optimizer](https://github.com/Zion-support/onboarding-journey-optimizer) · [nps-insight-copilot](https://github.com/Zion-support/nps-insight-copilot) · [customer-feedback-analyzer](https://github.com/Zion-support/customer-feedback-analyzer)
+## Batch 89 — Supply Chain, Logistics & Retail AI (interlinked)
+
+- [supplier-risk-radar](https://ziontechgroup.com/supplier-risk-radar/) · [repo](https://github.com/Zion-support/supplier-risk-radar)
+- [delivery-exception-copilot](https://ziontechgroup.com/delivery-exception-copilot/) · [repo](https://github.com/Zion-support/delivery-exception-copilot)
+- [demand-sensing-forecaster](https://ziontechgroup.com/demand-sensing-forecaster/) · [repo](https://github.com/Zion-support/demand-sensing-forecaster)
+- [warehouse-slotting-optimizer](https://ziontechgroup.com/warehouse-slotting-optimizer/) · [repo](https://github.com/Zion-support/warehouse-slotting-optimizer)
+- [freight-rate-forecaster](https://ziontechgroup.com/freight-rate-forecaster/) · [repo](https://github.com/Zion-support/freight-rate-forecaster)
+- [route-optimization-ai](https://ziontechgroup.com/route-optimization-ai/) · [repo](https://github.com/Zion-support/route-optimization-ai)
+- [stockout-predictor](https://ziontechgroup.com/stockout-predictor/) · [repo](https://github.com/Zion-support/stockout-predictor)
+- [product-recommendation-ai](https://ziontechgroup.com/product-recommendation-ai/) · [repo](https://github.com/Zion-support/product-recommendation-ai)
+- [promo-roi-optimizer](https://ziontechgroup.com/promo-roi-optimizer/) · [repo](https://github.com/Zion-support/promo-roi-optimizer)
+- [cart-abandonment-rescue](https://ziontechgroup.com/cart-abandonment-rescue/) · [repo](https://github.com/Zion-support/cart-abandonment-rescue)
+- [return-fraud-detector](https://ziontechgroup.com/return-fraud-detector/) · [repo](https://github.com/Zion-support/return-fraud-detector)
+- [review-response-ai](https://ziontechgroup.com/review-response-ai/) · [repo](https://github.com/Zion-support/review-response-ai)
+
+© 2026 Zion Tech Group · commercial@ziontechgroup.com
